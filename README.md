@@ -1,6 +1,7 @@
 ## Hi there 👋
 test 
-
+<header>
+<h1>EzGigz</h1>
 <!--
 **demalem/demalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
